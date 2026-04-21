@@ -16,11 +16,12 @@ A secure REST API with JWT authentication and role-based access control, built w
 |---|---|
 | Language | Java 21 |
 | Framework | Spring Boot |
+| Frontend | Vanilla JS |
 | Security | Spring Security + JWT (JJWT) |
 | Database | PostgreSQL (Supabase) |
 | ORM | Spring Data JPA / Hibernate |
 | Validation | Jakarta Bean Validation |
-| API Docs | SpringDoc OpenAPI / Swagger UI |
+| API Docs | Swagger UI |
 | Build | Maven |
 | Container | Docker (multi-stage build) |
 | CI/CD | GitHub Actions + Render |
