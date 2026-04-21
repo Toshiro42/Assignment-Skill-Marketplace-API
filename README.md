@@ -6,6 +6,8 @@ A secure REST API with JWT authentication and role-based access control, built w
 
 > First request may take ~30 seconds to wake up (free tier cold start).
 
+📖 **Live Frontend:** https://assignment-frontend-5st2.onrender.com
+
 ---
 
 ## Tech Stack
