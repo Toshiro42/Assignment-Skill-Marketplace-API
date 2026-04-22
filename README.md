@@ -34,6 +34,7 @@ A secure REST API with JWT authentication and role-based access control, built w
 
 - User registration & login with **BCrypt password hashing** and **JWT authentication**
 - **Role-based access control** — `CONSUMER`, `PROVIDER`, `ADMIN`
+- **Login as Admin** — Username: admin, Password: admin123
 - **User profile CRUD** — get, update, and delete your own account
 - **Global error handling** with custom exceptions and field-level validation errors
 - **Swagger UI** for interactive API documentation
